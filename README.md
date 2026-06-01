@@ -42,7 +42,8 @@ EC2 instance mediastream-api :80
 curl http://mediastream-alb-1055834289.us-east-1.elb.amazonaws.com
 ```
 El ALB respondió correctamente con el servidor HTTP Python de la instancia EC2.
-imagen
+
+![Respuesta](/evidence/alb_response.PNG)
 
 ---
 ## Comandos utilizados
