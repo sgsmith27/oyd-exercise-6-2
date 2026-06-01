@@ -1,0 +1,3 @@
+alb_arn = "arn:aws:elasticloadbalancing:us-east-1:577133972654:loadbalancer/app/mediastream-alb/74f219256054b5a9"
+alb_dns_name = "mediastream-alb-1055834289.us-east-1.elb.amazonaws.com"
+target_group_arn = "arn:aws:elasticloadbalancing:us-east-1:577133972654:targetgroup/mediastream-api-tg/83e57f11862305ad"
